@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "319897437552",
+    "firebase_url": "https://talktalktalk-c0f67.firebaseio.com",
+    "project_id": "talktalktalk-c0f67",
+    "storage_bucket": "talktalktalk-c0f67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319897437552:android:1d694d793dada45a027bb5",
+        "android_client_info": {
+          "package_name": "np.com.joshisijan.chatchatchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319897437552-ssbb8kkjoo06civkg6oephhqrruoro79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjbqBJXdFFJawoWlcGlLxuMMsa17cMT4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319897437552-ssbb8kkjoo06civkg6oephhqrruoro79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
